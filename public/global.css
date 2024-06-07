@@ -22,3 +22,12 @@ ul {
   margin: 100px auto;
   padding: 0 20px;
 }
+@media (min-width: 767px) {
+  .card.svelte-ku8gt2{
+    margin: 0 10px;
+    background-color: #000000;
+  }
+
+}
+	
+	/* your styles go here */
